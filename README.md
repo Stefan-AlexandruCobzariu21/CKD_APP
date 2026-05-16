@@ -1,1 +1,2 @@
 # CKD_APP
+The project consists of a REST-based web application that combines medical data collection and visualization with a machine learning algorithm for disease prediction. The main objectives of the application focus on developing REST services associated with visualization and monitoring functionalities, available to users based on their roles through a JWT-based authentication mechanism, building a user interface using React to integrate all system functionalities, and developing the prediction component by utilizing the Random Forest machine learning algorithm.
